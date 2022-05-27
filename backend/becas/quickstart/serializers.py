@@ -16,5 +16,5 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class BecaSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Beca
-        fields = ['nombre', 'categoria','porcentaje_financiacion','pais','universidad','requerimiento']
+        fields = '__all__'#['nombre', 'categoria','porcentaje_financiacion','pais','universidad','requerimiento']
 
