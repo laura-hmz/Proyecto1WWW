@@ -26,6 +26,7 @@ root.render(
         <Route path="/becasForm" element={<BecasForm />} />
         <Route path="/updateBeca/:id" element={<BecasForm />} />
         <Route path="/detallesBecas/:id" element={<BecaFormDetalles />} />
+        <Route path="/Home/" element={<BecasListPopulares />} />
 
       </Routes>
     </div>
