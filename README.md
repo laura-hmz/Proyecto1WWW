@@ -6,4 +6,5 @@ https://trello.com/b/PWHRrBuk/agile-board
 
 Historias de Usuario
 https://docs.google.com/document/d/1ILBy-h2KNu0rHUPFgwwpLjDr0igVkxqrafoVEgPIrV0/edit?usp=sharing
-LAURA HERNANDEZ - ISAAC JUNIOR CASTELLAR LOPEZ
+
+LAURA HERNANDEZ MUÑOZ- ISAAC JUNIOR CASTELLAR LOPEZ
